@@ -1,0 +1,16 @@
+/dist/
+/build/
+/doc/_build/
+/doc/build/
+*.pyc
+*.zip
+*.rdb
+*.egg-info/
+.vagrant/
+build/
+venv/
+avatica*
+
+
+.DS_Store
+emails*
